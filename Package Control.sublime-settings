@@ -1,0 +1,34 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Babel",
+		"Babel Snippets",
+		"Cucumber",
+		"Emmet",
+		"HTMLBeautify",
+		"Javascript Beautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JSCS-Formatter",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"MarkdownTOC",
+		"Markmon real-time markdown preview",
+		"Package Control",
+		"Pretty JSON",
+		"React ES6 Snippets",
+		"ReactJS",
+		"Sass",
+		"SassBeautify",
+		"SmartMarkdown",
+		"SublimeLinter",
+		"SublimeLinter-jsxhint",
+		"Syntax Highlighting for Sass",
+		"Table Cleaner",
+		"TrailingSpaces"
+	]
+}
