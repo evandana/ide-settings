@@ -25,3 +25,5 @@
 ```
 
 ## Extensions
+- ![extensions 1](vsc-extensions1.png)
+- ![extensions 2](vsc-extensions2.png)
