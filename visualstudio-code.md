@@ -1,3 +1,8 @@
+## Extensions Sync
+
+[Repo](https://gist.github.com/evandana/475c81bc7cbb601a3933a68287c90cbb)
+[Extension: Settings Sync for VSCode](https://github.com/shanalikhan/code-settings-sync)
+
 ## User Settings
 
 ```
